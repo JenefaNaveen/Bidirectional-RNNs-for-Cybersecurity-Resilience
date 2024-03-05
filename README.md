@@ -19,7 +19,6 @@ The datasets can be downloaded directly from the links below:
 - [Validation Dataset](URL-to-validation-dataset)
 - [Test Dataset](URL-to-test-dataset)
 
-Please replace `URL-to-...` with the actual URLs where you've hosted these datasets.
 
 ## Usage
 
@@ -29,15 +28,12 @@ These datasets are intended for academic research and educational purposes. We e
 
 If you use these datasets in your research, please cite our paper as follows:
 
-```
-[Paper citation details]
-```
+
 
 ## License
 
-[Specify the license under which the datasets are distributed]
 
 ## Contact
 
-For any further inquiries, please contact [Your Name] at [Your Email].
+For any further inquiries, please contact Dr.A.Jenefa at jenefaa@karunya.edu.
 
